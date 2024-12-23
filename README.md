@@ -1,11 +1,11 @@
 # practica1-alvaromedina
 
-## Project setup
+## Instalar las dependencias con el siguiente comando
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar y ejecutar la practica 1 con el siguiente comando
 ```
 npm run serve
 ```
